@@ -1,0 +1,16 @@
+{
+  "name": "Daily Expense Tracker",
+  "short_name": "ExpenseTracker",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#0f172a",
+  "theme_color": "#06b6d4",
+  "description": "Daily Expense Analytics Dashboard",
+  "icons": [
+    {
+      "src": "logo.svg",
+      "sizes": "192x192",
+      "type": "image/svg+xml"
+    }
+  ]
+}
